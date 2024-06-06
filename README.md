@@ -1,5 +1,3 @@
-Here is the README content for you to copy:
-
 ```markdown
 # Breast Cancer Detection and Classification Using Ultrasound Images & Classic Machine Learning Algorithms
 
