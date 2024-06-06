@@ -53,7 +53,7 @@ The findings of this project highlight the effectiveness of classic machine lear
 ## How to Use
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/breast-cancer-detection.git
+   git clone https://github.com/OmarEmad101/breast-cancer-detection.git
    cd breast-cancer-detection
 
 2. **Install dependencies**:
