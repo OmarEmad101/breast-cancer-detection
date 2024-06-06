@@ -3,7 +3,7 @@ Here is the README content for you to copy:
 ```markdown
 # Breast Cancer Detection and Classification Using Ultrasound Images & Classic Machine Learning Algorithms
 
-This repository contains the project developed by Team 06 for the Introduction to Machine Learning Course 2024. The project involves predicting and classifying breast cancer using ultrasound images, employing three distinct approaches: Gradient Boosting, AdaBoost, and a Radiomics-based approach.
+This repository contains the project developed by Systems and Biomedical engineering students for the Introduction to Machine Learning Course 2024. The project involves predicting and classifying breast cancer using ultrasound images, employing three distinct approaches: Gradient Boosting, AdaBoost, and a Radiomics-based approach.
 
 ## Team Members
 - Abdallah Magdy
@@ -67,8 +67,4 @@ The findings of this project highlight the effectiveness of classic machine lear
 ## References
 - [Breast Ultrasound Images Dataset (BUSI)](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
 
-## Contact
-For any questions or feedback, please reach out to the team members via their respective contact details provided in the project report.
 ```
-
-Copy this content and save it in a file named `README.md` in the root directory of your project. Then follow the steps to add, commit, and push it to your GitHub repository.
