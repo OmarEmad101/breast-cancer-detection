@@ -1,4 +1,4 @@
-```markdown
+
 # Breast Cancer Detection and Classification Using Ultrasound Images & Classic Machine Learning Algorithms
 
 This repository contains the project developed by Systems and Biomedical engineering students for the Introduction to Machine Learning Course 2024. The project involves predicting and classifying breast cancer using ultrasound images, employing three distinct approaches: Gradient Boosting, AdaBoost, and a Radiomics-based approach.
@@ -55,14 +55,14 @@ The findings of this project highlight the effectiveness of classic machine lear
    ```sh
    git clone https://github.com/yourusername/breast-cancer-detection.git
    cd breast-cancer-detection
-   ```
+
 2. **Install dependencies**:
    ```sh
    pip install -r requirements.txt
-   ```
+
 3. **Run the notebooks**: Open the Jupyter notebooks in the `notebooks/` directory to explore the different approaches.
 
 ## References
 - [Breast Ultrasound Images Dataset (BUSI)](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
-
+```
 ```
