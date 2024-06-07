@@ -46,7 +46,6 @@ The findings of this project highlight the effectiveness of classic machine lear
   - `adaptive-boosting-approach.ipynb`
   - `gradient-boosting-approach.ipynb`
   - `radiomics-based-approach.ipynb`
-- `data/`: Directory to place the dataset (not included due to size constraints).
 - `report/`: Contains the project report.
 - `README.md`: Project overview and instructions.
 
