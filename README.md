@@ -64,4 +64,3 @@ The findings of this project highlight the effectiveness of classic machine lear
 ## References
 - [Breast Ultrasound Images Dataset (BUSI)](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset)
 ```
-```
